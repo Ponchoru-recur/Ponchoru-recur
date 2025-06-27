@@ -1,10 +1,11 @@
-## 👋 Hi, I'm Transcenddev
+## 👋 Hi, I'm Poncha
 
-🚀 I'm a software developer passionate about web development and learning new technologies!
+🚀 I'm a programmer currently and willingly exposing myself on different fields of coding.
 
-### 💻 Tech Stack
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 💻 Current Experience
+![C](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![C++](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![OPENGL](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 📈 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=Ponchoru-recur&show_icons=true&theme=dark)
